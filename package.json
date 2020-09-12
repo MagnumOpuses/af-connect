@@ -24,7 +24,7 @@
     "jest": "^24.9.0",
     "json-schema-ref-parser": "^7.1.4",
     "jsonschema": "^1.2.6",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.19.4"
   },
   "scripts": {
